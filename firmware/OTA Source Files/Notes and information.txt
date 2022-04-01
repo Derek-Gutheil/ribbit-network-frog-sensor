@@ -43,3 +43,7 @@ A7sKPPcw7+uvTPyLNhBzPvOk
 
 
 Then I can hardcode that certificate into the arduino code.
+
+
+Note: worth checking out https://github.com/espressif/arduino-esp32/pull/6106
+This way I wouldn't need to track down the proper certification, as it would simply pull the full library from Mozilla 
