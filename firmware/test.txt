@@ -1,3 +1,7 @@
 This is a placeholder file.
 My location is: 
 https://raw.githubusercontent.com/Derek-Gutheil/ribbit-network-frog-sensor/feature/firmware_setup/firmware/test.txt
+
+After merging my PR the location is now:
+
+https://raw.githubusercontent.com/Derek-Gutheil/ribbit-network-frog-sensor/main/firmware/test.txt
